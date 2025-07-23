@@ -1,3 +1,0 @@
-stash pop
-
-New line for to check restore 
